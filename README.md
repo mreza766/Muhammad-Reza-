@@ -1,7 +1,3 @@
-Mulai sekarang!
-github.com/semangat.github.io
-[QR Code URL]
-
 <!DOCTYPE html>
 <html lang="id">
 <head>
